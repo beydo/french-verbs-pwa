@@ -1,0 +1,2718 @@
+[
+  {
+    "verb": "accepter",
+    "definition": "Placeholder definition for 'accepter'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je accepter",
+        "en_example": "I accepter"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je accepterais",
+        "en_example": "I would accepter"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je accepter",
+        "en_example": "that I accepter"
+      }
+    ]
+  },
+  {
+    "verb": "acheter",
+    "definition": "Placeholder definition for 'acheter'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je acheter",
+        "en_example": "I acheter"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je acheterais",
+        "en_example": "I would acheter"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je acheter",
+        "en_example": "that I acheter"
+      }
+    ]
+  },
+  {
+    "verb": "adorer",
+    "definition": "Placeholder definition for 'adorer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je adorer",
+        "en_example": "I adorer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je adorerais",
+        "en_example": "I would adorer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je adorer",
+        "en_example": "that I adorer"
+      }
+    ]
+  },
+  {
+    "verb": "aider",
+    "definition": "Placeholder definition for 'aider'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je aider",
+        "en_example": "I aider"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je aiderais",
+        "en_example": "I would aider"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je aider",
+        "en_example": "that I aider"
+      }
+    ]
+  },
+  {
+    "verb": "aimer",
+    "definition": "Placeholder definition for 'aimer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je aimer",
+        "en_example": "I aimer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je aimerais",
+        "en_example": "I would aimer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je aimer",
+        "en_example": "that I aimer"
+      }
+    ]
+  },
+  {
+    "verb": "aller",
+    "definition": "Placeholder definition for 'aller'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je aller",
+        "en_example": "I aller"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je allerais",
+        "en_example": "I would aller"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je aller",
+        "en_example": "that I aller"
+      }
+    ]
+  },
+  {
+    "verb": "amuser",
+    "definition": "Placeholder definition for 'amuser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je amuser",
+        "en_example": "I amuser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je amuserais",
+        "en_example": "I would amuser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je amuser",
+        "en_example": "that I amuser"
+      }
+    ]
+  },
+  {
+    "verb": "appeler",
+    "definition": "Placeholder definition for 'appeler'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je appeler",
+        "en_example": "I appeler"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je appelerais",
+        "en_example": "I would appeler"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je appeler",
+        "en_example": "that I appeler"
+      }
+    ]
+  },
+  {
+    "verb": "arranger",
+    "definition": "Placeholder definition for 'arranger'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je arranger",
+        "en_example": "I arranger"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je arrangerais",
+        "en_example": "I would arranger"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je arranger",
+        "en_example": "that I arranger"
+      }
+    ]
+  },
+  {
+    "verb": "arriver",
+    "definition": "Placeholder definition for 'arriver'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je arriver",
+        "en_example": "I arriver"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je arriverais",
+        "en_example": "I would arriver"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je arriver",
+        "en_example": "that I arriver"
+      }
+    ]
+  },
+  {
+    "verb": "arr\u00eater",
+    "definition": "Placeholder definition for 'arr\u00eater'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je arr\u00eater",
+        "en_example": "I arr\u00eater"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je arr\u00eaterais",
+        "en_example": "I would arr\u00eater"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je arr\u00eater",
+        "en_example": "that I arr\u00eater"
+      }
+    ]
+  },
+  {
+    "verb": "attendre",
+    "definition": "Placeholder definition for 'attendre'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je attendre",
+        "en_example": "I attendre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je attendreais",
+        "en_example": "I would attendre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je attendre",
+        "en_example": "that I attendre"
+      }
+    ]
+  },
+  {
+    "verb": "avoir",
+    "definition": "Placeholder definition for 'avoir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je avoir",
+        "en_example": "I avoir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je avoirais",
+        "en_example": "I would avoir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je avoir",
+        "en_example": "that I avoir"
+      }
+    ]
+  },
+  {
+    "verb": "boire",
+    "definition": "Placeholder definition for 'boire'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je boire",
+        "en_example": "I boire"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je boireais",
+        "en_example": "I would boire"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je boire",
+        "en_example": "that I boire"
+      }
+    ]
+  },
+  {
+    "verb": "bouger",
+    "definition": "Placeholder definition for 'bouger'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je bouger",
+        "en_example": "I bouger"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je bougerais",
+        "en_example": "I would bouger"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je bouger",
+        "en_example": "that I bouger"
+      }
+    ]
+  },
+  {
+    "verb": "brosser",
+    "definition": "Placeholder definition for 'brosser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je brosser",
+        "en_example": "I brosser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je brosserais",
+        "en_example": "I would brosser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je brosser",
+        "en_example": "that I brosser"
+      }
+    ]
+  },
+  {
+    "verb": "br\u00fbler",
+    "definition": "Placeholder definition for 'br\u00fbler'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je br\u00fbler",
+        "en_example": "I br\u00fbler"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je br\u00fblerais",
+        "en_example": "I would br\u00fbler"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je br\u00fbler",
+        "en_example": "that I br\u00fbler"
+      }
+    ]
+  },
+  {
+    "verb": "casser",
+    "definition": "Placeholder definition for 'casser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je casser",
+        "en_example": "I casser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je casserais",
+        "en_example": "I would casser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je casser",
+        "en_example": "that I casser"
+      }
+    ]
+  },
+  {
+    "verb": "changer",
+    "definition": "Placeholder definition for 'changer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je changer",
+        "en_example": "I changer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je changerais",
+        "en_example": "I would changer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je changer",
+        "en_example": "that I changer"
+      }
+    ]
+  },
+  {
+    "verb": "chanter",
+    "definition": "Placeholder definition for 'chanter'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je chanter",
+        "en_example": "I chanter"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je chanterais",
+        "en_example": "I would chanter"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je chanter",
+        "en_example": "that I chanter"
+      }
+    ]
+  },
+  {
+    "verb": "charger",
+    "definition": "Placeholder definition for 'charger'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je charger",
+        "en_example": "I charger"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je chargerais",
+        "en_example": "I would charger"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je charger",
+        "en_example": "that I charger"
+      }
+    ]
+  },
+  {
+    "verb": "chercher",
+    "definition": "Placeholder definition for 'chercher'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je chercher",
+        "en_example": "I chercher"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je chercherais",
+        "en_example": "I would chercher"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je chercher",
+        "en_example": "that I chercher"
+      }
+    ]
+  },
+  {
+    "verb": "choisir",
+    "definition": "Placeholder definition for 'choisir'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je choisir",
+        "en_example": "I choisir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je choisirais",
+        "en_example": "I would choisir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je choisir",
+        "en_example": "that I choisir"
+      }
+    ]
+  },
+  {
+    "verb": "commencer",
+    "definition": "Placeholder definition for 'commencer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je commencer",
+        "en_example": "I commencer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je commencerais",
+        "en_example": "I would commencer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je commencer",
+        "en_example": "that I commencer"
+      }
+    ]
+  },
+  {
+    "verb": "compl\u00e9ter",
+    "definition": "Placeholder definition for 'compl\u00e9ter'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je compl\u00e9ter",
+        "en_example": "I compl\u00e9ter"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je compl\u00e9terais",
+        "en_example": "I would compl\u00e9ter"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je compl\u00e9ter",
+        "en_example": "that I compl\u00e9ter"
+      }
+    ]
+  },
+  {
+    "verb": "comprendre",
+    "definition": "Placeholder definition for 'comprendre'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je comprendre",
+        "en_example": "I comprendre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je comprendreais",
+        "en_example": "I would comprendre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je comprendre",
+        "en_example": "that I comprendre"
+      }
+    ]
+  },
+  {
+    "verb": "conduire",
+    "definition": "Placeholder definition for 'conduire'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je conduire",
+        "en_example": "I conduire"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je conduireais",
+        "en_example": "I would conduire"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je conduire",
+        "en_example": "that I conduire"
+      }
+    ]
+  },
+  {
+    "verb": "conna\u00eetre",
+    "definition": "Placeholder definition for 'conna\u00eetre'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je conna\u00eetre",
+        "en_example": "I conna\u00eetre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je conna\u00eetreais",
+        "en_example": "I would conna\u00eetre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je conna\u00eetre",
+        "en_example": "that I conna\u00eetre"
+      }
+    ]
+  },
+  {
+    "verb": "continuer",
+    "definition": "Placeholder definition for 'continuer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je continuer",
+        "en_example": "I continuer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je continuerais",
+        "en_example": "I would continuer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je continuer",
+        "en_example": "that I continuer"
+      }
+    ]
+  },
+  {
+    "verb": "couper",
+    "definition": "Placeholder definition for 'couper'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je couper",
+        "en_example": "I couper"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je couperais",
+        "en_example": "I would couper"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je couper",
+        "en_example": "that I couper"
+      }
+    ]
+  },
+  {
+    "verb": "couvrir",
+    "definition": "Placeholder definition for 'couvrir'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je couvrir",
+        "en_example": "I couvrir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je couvrirais",
+        "en_example": "I would couvrir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je couvrir",
+        "en_example": "that I couvrir"
+      }
+    ]
+  },
+  {
+    "verb": "cuire",
+    "definition": "Placeholder definition for 'cuire'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je cuire",
+        "en_example": "I cuire"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je cuireais",
+        "en_example": "I would cuire"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je cuire",
+        "en_example": "that I cuire"
+      }
+    ]
+  },
+  {
+    "verb": "descendre",
+    "definition": "Placeholder definition for 'descendre'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je descendre",
+        "en_example": "I descendre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je descendreais",
+        "en_example": "I would descendre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je descendre",
+        "en_example": "that I descendre"
+      }
+    ]
+  },
+  {
+    "verb": "devenir",
+    "definition": "Placeholder definition for 'devenir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je devenir",
+        "en_example": "I devenir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je devenirais",
+        "en_example": "I would devenir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je devenir",
+        "en_example": "that I devenir"
+      }
+    ]
+  },
+  {
+    "verb": "devoir",
+    "definition": "Placeholder definition for 'devoir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je devoir",
+        "en_example": "I devoir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je devoirais",
+        "en_example": "I would devoir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je devoir",
+        "en_example": "that I devoir"
+      }
+    ]
+  },
+  {
+    "verb": "dire",
+    "definition": "Placeholder definition for 'dire'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je dire",
+        "en_example": "I dire"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je direais",
+        "en_example": "I would dire"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je dire",
+        "en_example": "that I dire"
+      }
+    ]
+  },
+  {
+    "verb": "donner",
+    "definition": "Placeholder definition for 'donner'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je donner",
+        "en_example": "I donner"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je donnerais",
+        "en_example": "I would donner"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je donner",
+        "en_example": "that I donner"
+      }
+    ]
+  },
+  {
+    "verb": "d\u00e9cider",
+    "definition": "Placeholder definition for 'd\u00e9cider'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je d\u00e9cider",
+        "en_example": "I d\u00e9cider"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je d\u00e9ciderais",
+        "en_example": "I would d\u00e9cider"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je d\u00e9cider",
+        "en_example": "that I d\u00e9cider"
+      }
+    ]
+  },
+  {
+    "verb": "d\u00e9jeuner",
+    "definition": "Placeholder definition for 'd\u00e9jeuner'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je d\u00e9jeuner",
+        "en_example": "I d\u00e9jeuner"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je d\u00e9jeunerais",
+        "en_example": "I would d\u00e9jeuner"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je d\u00e9jeuner",
+        "en_example": "that I d\u00e9jeuner"
+      }
+    ]
+  },
+  {
+    "verb": "d\u00e9penser",
+    "definition": "Placeholder definition for 'd\u00e9penser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je d\u00e9penser",
+        "en_example": "I d\u00e9penser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je d\u00e9penserais",
+        "en_example": "I would d\u00e9penser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je d\u00e9penser",
+        "en_example": "that I d\u00e9penser"
+      }
+    ]
+  },
+  {
+    "verb": "d\u00eener",
+    "definition": "Placeholder definition for 'd\u00eener'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je d\u00eener",
+        "en_example": "I d\u00eener"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je d\u00eenerais",
+        "en_example": "I would d\u00eener"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je d\u00eener",
+        "en_example": "that I d\u00eener"
+      }
+    ]
+  },
+  {
+    "verb": "employer",
+    "definition": "Placeholder definition for 'employer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je employer",
+        "en_example": "I employer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je employerais",
+        "en_example": "I would employer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je employer",
+        "en_example": "that I employer"
+      }
+    ]
+  },
+  {
+    "verb": "enlever",
+    "definition": "Placeholder definition for 'enlever'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je enlever",
+        "en_example": "I enlever"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je enleverais",
+        "en_example": "I would enlever"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je enlever",
+        "en_example": "that I enlever"
+      }
+    ]
+  },
+  {
+    "verb": "entendre",
+    "definition": "Placeholder definition for 'entendre'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je entendre",
+        "en_example": "I entendre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je entendreais",
+        "en_example": "I would entendre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je entendre",
+        "en_example": "that I entendre"
+      }
+    ]
+  },
+  {
+    "verb": "envisager",
+    "definition": "Placeholder definition for 'envisager'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je envisager",
+        "en_example": "I envisager"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je envisagerais",
+        "en_example": "I would envisager"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je envisager",
+        "en_example": "that I envisager"
+      }
+    ]
+  },
+  {
+    "verb": "envoyer",
+    "definition": "Placeholder definition for 'envoyer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je envoyer",
+        "en_example": "I envoyer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je envoyerais",
+        "en_example": "I would envoyer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je envoyer",
+        "en_example": "that I envoyer"
+      }
+    ]
+  },
+  {
+    "verb": "esp\u00e9rer",
+    "definition": "Placeholder definition for 'esp\u00e9rer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je esp\u00e9rer",
+        "en_example": "I esp\u00e9rer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je esp\u00e9rerais",
+        "en_example": "I would esp\u00e9rer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je esp\u00e9rer",
+        "en_example": "that I esp\u00e9rer"
+      }
+    ]
+  },
+  {
+    "verb": "essayer",
+    "definition": "Placeholder definition for 'essayer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je essayer",
+        "en_example": "I essayer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je essayerais",
+        "en_example": "I would essayer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je essayer",
+        "en_example": "that I essayer"
+      }
+    ]
+  },
+  {
+    "verb": "excuser",
+    "definition": "Placeholder definition for 'excuser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je excuser",
+        "en_example": "I excuser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je excuserais",
+        "en_example": "I would excuser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je excuser",
+        "en_example": "that I excuser"
+      }
+    ]
+  },
+  {
+    "verb": "expliquer",
+    "definition": "Placeholder definition for 'expliquer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je expliquer",
+        "en_example": "I expliquer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je expliquerais",
+        "en_example": "I would expliquer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je expliquer",
+        "en_example": "that I expliquer"
+      }
+    ]
+  },
+  {
+    "verb": "faire",
+    "definition": "Placeholder definition for 'faire'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je faire",
+        "en_example": "I faire"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je faireais",
+        "en_example": "I would faire"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je faire",
+        "en_example": "that I faire"
+      }
+    ]
+  },
+  {
+    "verb": "fermer",
+    "definition": "Placeholder definition for 'fermer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je fermer",
+        "en_example": "I fermer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je fermerais",
+        "en_example": "I would fermer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je fermer",
+        "en_example": "that I fermer"
+      }
+    ]
+  },
+  {
+    "verb": "habiter",
+    "definition": "Placeholder definition for 'habiter'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je habiter",
+        "en_example": "I habiter"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je habiterais",
+        "en_example": "I would habiter"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je habiter",
+        "en_example": "that I habiter"
+      }
+    ]
+  },
+  {
+    "verb": "informer",
+    "definition": "Placeholder definition for 'informer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je informer",
+        "en_example": "I informer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je informerais",
+        "en_example": "I would informer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je informer",
+        "en_example": "that I informer"
+      }
+    ]
+  },
+  {
+    "verb": "jouer",
+    "definition": "Placeholder definition for 'jouer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je jouer",
+        "en_example": "I jouer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je jouerais",
+        "en_example": "I would jouer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je jouer",
+        "en_example": "that I jouer"
+      }
+    ]
+  },
+  {
+    "verb": "laisser",
+    "definition": "Placeholder definition for 'laisser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je laisser",
+        "en_example": "I laisser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je laisserais",
+        "en_example": "I would laisser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je laisser",
+        "en_example": "that I laisser"
+      }
+    ]
+  },
+  {
+    "verb": "lever",
+    "definition": "Placeholder definition for 'lever'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je lever",
+        "en_example": "I lever"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je leverais",
+        "en_example": "I would lever"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je lever",
+        "en_example": "that I lever"
+      }
+    ]
+  },
+  {
+    "verb": "lire",
+    "definition": "Placeholder definition for 'lire'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je lire",
+        "en_example": "I lire"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je lireais",
+        "en_example": "I would lire"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je lire",
+        "en_example": "that I lire"
+      }
+    ]
+  },
+  {
+    "verb": "manger",
+    "definition": "Placeholder definition for 'manger'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je manger",
+        "en_example": "I manger"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je mangerais",
+        "en_example": "I would manger"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je manger",
+        "en_example": "that I manger"
+      }
+    ]
+  },
+  {
+    "verb": "marcher",
+    "definition": "Placeholder definition for 'marcher'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je marcher",
+        "en_example": "I marcher"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je marcherais",
+        "en_example": "I would marcher"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je marcher",
+        "en_example": "that I marcher"
+      }
+    ]
+  },
+  {
+    "verb": "mettre",
+    "definition": "Placeholder definition for 'mettre'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je mettre",
+        "en_example": "I mettre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je mettreais",
+        "en_example": "I would mettre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je mettre",
+        "en_example": "that I mettre"
+      }
+    ]
+  },
+  {
+    "verb": "nager",
+    "definition": "Placeholder definition for 'nager'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je nager",
+        "en_example": "I nager"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je nagerais",
+        "en_example": "I would nager"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je nager",
+        "en_example": "that I nager"
+      }
+    ]
+  },
+  {
+    "verb": "oublier",
+    "definition": "Placeholder definition for 'oublier'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je oublier",
+        "en_example": "I oublier"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je oublierais",
+        "en_example": "I would oublier"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je oublier",
+        "en_example": "that I oublier"
+      }
+    ]
+  },
+  {
+    "verb": "ouvrir",
+    "definition": "Placeholder definition for 'ouvrir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je ouvrir",
+        "en_example": "I ouvrir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je ouvrirais",
+        "en_example": "I would ouvrir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je ouvrir",
+        "en_example": "that I ouvrir"
+      }
+    ]
+  },
+  {
+    "verb": "parler",
+    "definition": "Placeholder definition for 'parler'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je parler",
+        "en_example": "I parler"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je parlerais",
+        "en_example": "I would parler"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je parler",
+        "en_example": "that I parler"
+      }
+    ]
+  },
+  {
+    "verb": "penser",
+    "definition": "Placeholder definition for 'penser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je penser",
+        "en_example": "I penser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je penserais",
+        "en_example": "I would penser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je penser",
+        "en_example": "that I penser"
+      }
+    ]
+  },
+  {
+    "verb": "pouvoir",
+    "definition": "Placeholder definition for 'pouvoir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je pouvoir",
+        "en_example": "I pouvoir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je pouvoirais",
+        "en_example": "I would pouvoir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je pouvoir",
+        "en_example": "that I pouvoir"
+      }
+    ]
+  },
+  {
+    "verb": "prendre",
+    "definition": "Placeholder definition for 'prendre'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je prendre",
+        "en_example": "I prendre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je prendreais",
+        "en_example": "I would prendre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je prendre",
+        "en_example": "that I prendre"
+      }
+    ]
+  },
+  {
+    "verb": "pr\u00e9parer",
+    "definition": "Placeholder definition for 'pr\u00e9parer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je pr\u00e9parer",
+        "en_example": "I pr\u00e9parer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je pr\u00e9parerais",
+        "en_example": "I would pr\u00e9parer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je pr\u00e9parer",
+        "en_example": "that I pr\u00e9parer"
+      }
+    ]
+  },
+  {
+    "verb": "refuser",
+    "definition": "Placeholder definition for 'refuser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je refuser",
+        "en_example": "I refuser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je refuserais",
+        "en_example": "I would refuser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je refuser",
+        "en_example": "that I refuser"
+      }
+    ]
+  },
+  {
+    "verb": "regarder",
+    "definition": "Placeholder definition for 'regarder'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je regarder",
+        "en_example": "I regarder"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je regarderais",
+        "en_example": "I would regarder"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je regarder",
+        "en_example": "that I regarder"
+      }
+    ]
+  },
+  {
+    "verb": "rentrer",
+    "definition": "Placeholder definition for 'rentrer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je rentrer",
+        "en_example": "I rentrer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je rentrerais",
+        "en_example": "I would rentrer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je rentrer",
+        "en_example": "that I rentrer"
+      }
+    ]
+  },
+  {
+    "verb": "rester",
+    "definition": "Placeholder definition for 'rester'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je rester",
+        "en_example": "I rester"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je resterais",
+        "en_example": "I would rester"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je rester",
+        "en_example": "that I rester"
+      }
+    ]
+  },
+  {
+    "verb": "retourner",
+    "definition": "Placeholder definition for 'retourner'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je retourner",
+        "en_example": "I retourner"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je retournerais",
+        "en_example": "I would retourner"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je retourner",
+        "en_example": "that I retourner"
+      }
+    ]
+  },
+  {
+    "verb": "revenir",
+    "definition": "Placeholder definition for 'revenir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je revenir",
+        "en_example": "I revenir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je revenirais",
+        "en_example": "I would revenir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je revenir",
+        "en_example": "that I revenir"
+      }
+    ]
+  },
+  {
+    "verb": "revoir",
+    "definition": "Placeholder definition for 'revoir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je revoir",
+        "en_example": "I revoir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je revoirais",
+        "en_example": "I would revoir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je revoir",
+        "en_example": "that I revoir"
+      }
+    ]
+  },
+  {
+    "verb": "r\u00e9parer",
+    "definition": "Placeholder definition for 'r\u00e9parer'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je r\u00e9parer",
+        "en_example": "I r\u00e9parer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je r\u00e9parerais",
+        "en_example": "I would r\u00e9parer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je r\u00e9parer",
+        "en_example": "that I r\u00e9parer"
+      }
+    ]
+  },
+  {
+    "verb": "r\u00e9pondre",
+    "definition": "Placeholder definition for 'r\u00e9pondre'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je r\u00e9pondre",
+        "en_example": "I r\u00e9pondre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je r\u00e9pondreais",
+        "en_example": "I would r\u00e9pondre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je r\u00e9pondre",
+        "en_example": "that I r\u00e9pondre"
+      }
+    ]
+  },
+  {
+    "verb": "savoir",
+    "definition": "Placeholder definition for 'savoir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je savoir",
+        "en_example": "I savoir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je savoirais",
+        "en_example": "I would savoir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je savoir",
+        "en_example": "that I savoir"
+      }
+    ]
+  },
+  {
+    "verb": "se coucher",
+    "definition": "Placeholder definition for 'se coucher'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me coucher",
+        "en_example": "I se coucher"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me coucherais",
+        "en_example": "I would se coucher"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me coucher",
+        "en_example": "that I se coucher"
+      }
+    ]
+  },
+  {
+    "verb": "se couper",
+    "definition": "Placeholder definition for 'se couper'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me couper",
+        "en_example": "I se couper"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me couperais",
+        "en_example": "I would se couper"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me couper",
+        "en_example": "that I se couper"
+      }
+    ]
+  },
+  {
+    "verb": "se d\u00e9p\u00eacher",
+    "definition": "Placeholder definition for 'se d\u00e9p\u00eacher'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me d\u00e9p\u00eacher",
+        "en_example": "I se d\u00e9p\u00eacher"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me d\u00e9p\u00eacherais",
+        "en_example": "I would se d\u00e9p\u00eacher"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me d\u00e9p\u00eacher",
+        "en_example": "that I se d\u00e9p\u00eacher"
+      }
+    ]
+  },
+  {
+    "verb": "se laver",
+    "definition": "Placeholder definition for 'se laver'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me laver",
+        "en_example": "I se laver"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me laverais",
+        "en_example": "I would se laver"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me laver",
+        "en_example": "that I se laver"
+      }
+    ]
+  },
+  {
+    "verb": "se promener",
+    "definition": "Placeholder definition for 'se promener'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me promener",
+        "en_example": "I se promener"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me promenerais",
+        "en_example": "I would se promener"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me promener",
+        "en_example": "that I se promener"
+      }
+    ]
+  },
+  {
+    "verb": "se reposer",
+    "definition": "Placeholder definition for 'se reposer'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me reposer",
+        "en_example": "I se reposer"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me reposerais",
+        "en_example": "I would se reposer"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me reposer",
+        "en_example": "that I se reposer"
+      }
+    ]
+  },
+  {
+    "verb": "se r\u00e9veiller",
+    "definition": "Placeholder definition for 'se r\u00e9veiller'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me r\u00e9veiller",
+        "en_example": "I se r\u00e9veiller"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me r\u00e9veillerais",
+        "en_example": "I would se r\u00e9veiller"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me r\u00e9veiller",
+        "en_example": "that I se r\u00e9veiller"
+      }
+    ]
+  },
+  {
+    "verb": "sortir",
+    "definition": "Placeholder definition for 'sortir'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je sortir",
+        "en_example": "I sortir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je sortirais",
+        "en_example": "I would sortir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je sortir",
+        "en_example": "that I sortir"
+      }
+    ]
+  },
+  {
+    "verb": "s\u2019endormir",
+    "definition": "Placeholder definition for 's\u2019endormir'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me s\u2019endormir",
+        "en_example": "I s\u2019endormir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me s\u2019endormirais",
+        "en_example": "I would s\u2019endormir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me s\u2019endormir",
+        "en_example": "that I s\u2019endormir"
+      }
+    ]
+  },
+  {
+    "verb": "s\u2019enqu\u00e9rir",
+    "definition": "Placeholder definition for 's\u2019enqu\u00e9rir'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me s\u2019enqu\u00e9rir",
+        "en_example": "I s\u2019enqu\u00e9rir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me s\u2019enqu\u00e9rirais",
+        "en_example": "I would s\u2019enqu\u00e9rir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me s\u2019enqu\u00e9rir",
+        "en_example": "that I s\u2019enqu\u00e9rir"
+      }
+    ]
+  },
+  {
+    "verb": "s\u2019habiller",
+    "definition": "Placeholder definition for 's\u2019habiller'",
+    "category": "Reflexive",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je me s\u2019habiller",
+        "en_example": "I s\u2019habiller"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je me s\u2019habillerais",
+        "en_example": "I would s\u2019habiller"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je me s\u2019habiller",
+        "en_example": "that I s\u2019habiller"
+      }
+    ]
+  },
+  {
+    "verb": "travailler",
+    "definition": "Placeholder definition for 'travailler'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je travailler",
+        "en_example": "I travailler"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je travaillerais",
+        "en_example": "I would travailler"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je travailler",
+        "en_example": "that I travailler"
+      }
+    ]
+  },
+  {
+    "verb": "trouver",
+    "definition": "Placeholder definition for 'trouver'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je trouver",
+        "en_example": "I trouver"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je trouverais",
+        "en_example": "I would trouver"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je trouver",
+        "en_example": "that I trouver"
+      }
+    ]
+  },
+  {
+    "verb": "utiliser",
+    "definition": "Placeholder definition for 'utiliser'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je utiliser",
+        "en_example": "I utiliser"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je utiliserais",
+        "en_example": "I would utiliser"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je utiliser",
+        "en_example": "that I utiliser"
+      }
+    ]
+  },
+  {
+    "verb": "venir",
+    "definition": "Placeholder definition for 'venir'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je venir",
+        "en_example": "I venir"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je venirais",
+        "en_example": "I would venir"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je venir",
+        "en_example": "that I venir"
+      }
+    ]
+  },
+  {
+    "verb": "\u00e9couter",
+    "definition": "Placeholder definition for '\u00e9couter'",
+    "category": "Regular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je \u00e9couter",
+        "en_example": "I \u00e9couter"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je \u00e9couterais",
+        "en_example": "I would \u00e9couter"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je \u00e9couter",
+        "en_example": "that I \u00e9couter"
+      }
+    ]
+  },
+  {
+    "verb": "\u00e9crire",
+    "definition": "Placeholder definition for '\u00e9crire'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je \u00e9crire",
+        "en_example": "I \u00e9crire"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je \u00e9crireais",
+        "en_example": "I would \u00e9crire"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je \u00e9crire",
+        "en_example": "that I \u00e9crire"
+      }
+    ]
+  },
+  {
+    "verb": "\u00eatre",
+    "definition": "Placeholder definition for '\u00eatre'",
+    "category": "Irregular",
+    "conjugations": [
+      {
+        "mood": "Indicatif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Present",
+        "fr_example": "je \u00eatre",
+        "en_example": "I \u00eatre"
+      },
+      {
+        "mood": "Conditionnel",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Conditional",
+        "fr_example": "je \u00eatreais",
+        "en_example": "I would \u00eatre"
+      },
+      {
+        "mood": "Subjonctif",
+        "tense_fr": "Pr\u00e9sent",
+        "tense_en": "Subjunctive Present",
+        "fr_example": "que je \u00eatre",
+        "en_example": "that I \u00eatre"
+      }
+    ]
+  }
+]
