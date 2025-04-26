@@ -1,5 +1,5 @@
 import { useParams, Link } from 'react-router-dom';
-import verbs from '../data/verbs-full.json';
+import dataRaw from '../data/verbs-full.json';
 
 interface Conjugation {
   mood: string;
@@ -16,10 +16,12 @@ interface Verb {
   conjugations: Conjugation[];
 }
 
+const verbs = dataRaw as Verb[];
+
 export default function VerbDetails() {
   const { verb } = useParams<{ verb: string }>();
   const safeVerb = verb || '';
-  const index = verbs.findIndex(v => v.verb === safeVerb);
+  const index = verbs.findIndex((v) => v.verb === safeVerb);
   const current = verbs[index];
   const prev = verbs[index - 1];
   const next = verbs[index + 1];

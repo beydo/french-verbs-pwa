@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import data from '../data/verbs-full.json';
+import dataRaw from '../data/verbs-full.json';
 import { Link } from 'react-router-dom';
 
 interface Conjugation {
@@ -17,11 +17,13 @@ interface Verb {
   conjugations: Conjugation[];
 }
 
+const data = dataRaw as Verb[];
+
 export default function Train() {
   const [tab, setTab] = useState<'alpha' | 'category'>('alpha');
   const [verbs] = useState<Verb[]>(data);
 
-  const grouped = tab === 'alpha'
+  const grouped: Record<string, Verb[]> = tab === 'alpha'
     ? groupByAlpha(verbs)
     : groupByCategory(verbs);
 
@@ -31,11 +33,11 @@ export default function Train() {
         <button onClick={() => setTab('alpha')}>Alphabetically</button>
         <button onClick={() => setTab('category')}>By Category</button>
       </div>
-      {Object.entries(grouped).map(([group, list]: [string, Verb[]]) => (
+      {Object.entries(grouped).map(([group, list]) => (
         <details key={group} open>
           <summary style={{ fontWeight: 'bold', marginTop: '1rem' }}>{group}</summary>
           <ul>
-            {list.map((v: Verb, i: number) => (
+            {list.map((v, i) => (
               <li key={i}><Link to={`/train/${v.verb}`}>{v.verb}</Link></li>
             ))}
           </ul>
