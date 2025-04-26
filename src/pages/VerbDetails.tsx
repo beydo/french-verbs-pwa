@@ -1,9 +1,25 @@
 import { useParams, Link } from 'react-router-dom';
 import verbs from '../data/verbs-full.json';
 
+interface Conjugation {
+  mood: string;
+  tense_fr: string;
+  tense_en: string;
+  fr_example: string;
+  en_example: string;
+}
+
+interface Verb {
+  verb: string;
+  definition: string;
+  category: string;
+  conjugations: Conjugation[];
+}
+
 export default function VerbDetails() {
-  const { verb } = useParams();
-  const index = verbs.findIndex(v => v.verb === verb);
+  const { verb } = useParams<{ verb: string }>();
+  const safeVerb = verb || '';
+  const index = verbs.findIndex(v => v.verb === safeVerb);
   const current = verbs[index];
   const prev = verbs[index - 1];
   const next = verbs[index + 1];

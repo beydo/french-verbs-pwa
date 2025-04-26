@@ -2,9 +2,24 @@ import { useEffect, useState } from 'react';
 import data from '../data/verbs-full.json';
 import { Link } from 'react-router-dom';
 
+interface Conjugation {
+  mood: string;
+  tense_fr: string;
+  tense_en: string;
+  fr_example: string;
+  en_example: string;
+}
+
+interface Verb {
+  verb: string;
+  definition: string;
+  category: string;
+  conjugations: Conjugation[];
+}
+
 export default function Train() {
   const [tab, setTab] = useState<'alpha' | 'category'>('alpha');
-  const [verbs, setVerbs] = useState(data);
+  const [verbs] = useState<Verb[]>(data);
 
   const grouped = tab === 'alpha'
     ? groupByAlpha(verbs)
@@ -16,11 +31,11 @@ export default function Train() {
         <button onClick={() => setTab('alpha')}>Alphabetically</button>
         <button onClick={() => setTab('category')}>By Category</button>
       </div>
-      {Object.entries(grouped).map(([group, list]) => (
+      {Object.entries(grouped).map(([group, list]: [string, Verb[]]) => (
         <details key={group} open>
           <summary style={{ fontWeight: 'bold', marginTop: '1rem' }}>{group}</summary>
           <ul>
-            {list.map((v, i) => (
+            {list.map((v: Verb, i: number) => (
               <li key={i}><Link to={`/train/${v.verb}`}>{v.verb}</Link></li>
             ))}
           </ul>
@@ -30,8 +45,8 @@ export default function Train() {
   );
 }
 
-function groupByAlpha(verbs) {
-  return verbs.reduce((acc, v) => {
+function groupByAlpha(verbs: Verb[]): Record<string, Verb[]> {
+  return verbs.reduce((acc: Record<string, Verb[]>, v: Verb) => {
     const letter = v.verb[0].toUpperCase();
     acc[letter] = acc[letter] || [];
     acc[letter].push(v);
@@ -39,8 +54,8 @@ function groupByAlpha(verbs) {
   }, {});
 }
 
-function groupByCategory(verbs) {
-  return verbs.reduce((acc, v) => {
+function groupByCategory(verbs: Verb[]): Record<string, Verb[]> {
+  return verbs.reduce((acc: Record<string, Verb[]>, v: Verb) => {
     const cat = v.category;
     acc[cat] = acc[cat] || [];
     acc[cat].push(v);
