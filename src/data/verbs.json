@@ -1,0 +1,27 @@
+[
+  {
+    "fr": "aimer",
+    "en": "to like/love",
+    "rank": 101
+  },
+  {
+    "fr": "aller",
+    "en": "to go",
+    "rank": 5
+  },
+  {
+    "fr": "avoir",
+    "en": "to have",
+    "rank": 1
+  },
+  {
+    "fr": "\u00eatre",
+    "en": "to be",
+    "rank": 2
+  },
+  {
+    "fr": "faire",
+    "en": "to do/make",
+    "rank": 3
+  }
+]

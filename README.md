@@ -1,3 +1,3 @@
-# French Verbs PWA
+# French Verbs Trainer PWA
 
-Installable mobile-friendly progressive web app (PWA) for studying French verb conjugations.
+This is an installable offline-first app to browse and train on French verbs.
